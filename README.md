@@ -1,6 +1,7 @@
  Definir la clase EspacioRecreacional
 La clase EspacioRecreacional representa un espacio disponible para uso recreativo, como una cancha deportiva o una sala de juegos. A continuación, se describen sus atributos y métodos.
 
+192358-192420
 Atributos:
 nombre: El nombre del espacio (por ejemplo, "Cancha 1", "Sala de Juegos").
 tipo: El tipo de espacio, que puede ser "cancha", "sala de juegos", o cualquier otro tipo de espacio recreativo.
